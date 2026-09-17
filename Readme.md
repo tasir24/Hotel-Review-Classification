@@ -195,8 +195,7 @@ Hotel-Review-Classification/
 │
 ├── requirements.txt
 ├── README.md
-└── report/
-    └── project_report.pdf
+
 ```
 
 ---
@@ -280,14 +279,6 @@ Interpretation & Conclusion
 
 ---
 
-# 🎯 Project Objective
-
-The main objective of this project is to demonstrate how hotel review data can be processed and analyzed using Python and how machine-learning classification can be applied to the prepared data.
-
-The project focuses on building a clear and reproducible workflow where the data, preprocessing decisions, models, evaluation metrics, and limitations can be understood and explained.
-
----
-
 # ⚠️ Limitations
 
 * The results depend on the quality and representation of the dataset.
@@ -295,34 +286,6 @@ The project focuses on building a clear and reproducible workflow where the data
 * Classification performance may vary depending on the selected features and data split.
 * Model predictions should not be treated as universally applicable to all hotel reviews.
 * The project is intended for educational data-science analysis rather than a production hotel-review system.
-
----
-
-# 🎥 Project Preview
-
-```text
-Data Loading & Dataset Overview
-```
-
-<p align="center">
-  <!-- Add video/GIF here -->
-</p>
-
-```text
-Exploratory Data Analysis & Visualizations
-```
-
-<p align="center">
-  <!-- Add video/GIF here -->
-</p>
-
-```text
-Model Training, Evaluation & Results
-```
-
-<p align="center">
-  <!-- Add video/GIF here -->
-</p>
 
 ---
 
